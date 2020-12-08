@@ -1,0 +1,36 @@
+body {
+    background-color: #00FFFF;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+    font-style: italic;
+}
+.category {
+    font-family: calibri;
+    margin-left: 10px;
+}
+.category strong {
+    text-decoration: overline;
+    font-size: 1.5em;
+}
+h3 {
+    text-decoration: overline;
+    font-size: 1.5em;
+    font-style : italic;
+    color: blue;
+    font-family: "Lucida Console"
+}
+img {
+  border: 6px black dotted;
+  padding: 5px;
+}
+img:hover {
+  border: 6px yellow solid;
+}
+li {
+  color: blue;
+  font-family: calibri;
+}
